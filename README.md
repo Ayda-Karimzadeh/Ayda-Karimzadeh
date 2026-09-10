@@ -14,11 +14,11 @@ I'm a Computer Engineering graduate building my foundation in Python, Data Scien
 I enjoy turning ideas into working software and I'm currently focusing on developing practical ML skills through hands-on projects.
 
 🌱 &nbsp;I'm currently learning **Data Science and Machine Learning with Python**, focusing on pandas, NumPy, data visualization, and scikit-learn.  
-🔭 &nbsp;I'm currently working on **California Housing Price Prediction**, an end-to-end learning project focused on data understanding, EDA, feature engineering, and Linear Regression.
-💻 &nbsp; I'm also developing **SmartLife**, a desktop habit-tracking application built with Python, PyQt6, SQLite, and a structured architecture.  
-📚 &nbsp; I'm currently strengthening my understanding of **data preprocessing, regression, model evaluation, and core machine learning concepts**.
+🔭 &nbsp;I'm currently working on **California Housing Price Prediction**, an end-to-end learning project focused on data understanding, EDA, feature engineering, and Linear Regression.  
+💻 &nbsp;I'm also developing **SmartLife**, a desktop habit-tracking application built with Python, PyQt6, SQLite, and a structured architecture.  
+📚 &nbsp;I'm currently strengthening my understanding of **data preprocessing, regression, model evaluation, and core machine learning concepts**.  
 🤝 &nbsp;I'm open to ML/AI internships and beginner-friendly data-driven projects where I can learn, contribute, and grow.   
-💬 &nbsp;Ask me about **Python, pandas, NumPy, data analysis, or my learning projects**. 
+💬 &nbsp;Ask me about **Python, pandas, NumPy, data analysis, or my learning projects**.  
 ⚡ &nbsp;My long-term goal is to build a career in **AI/ML engineering** and work internationally. 
 
 ### 🛠️ Tech Stack
@@ -51,7 +51,11 @@ I enjoy turning ideas into working software and I'm currently focusing on develo
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayda-Karimzadeh&bg_color=00000000&color=8536ce&line=8536ce&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayda-Karimzadeh/Ayda-Karimzadeh/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayda-Karimzadeh/Ayda-Karimzadeh/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ayda-Karimzadeh/Ayda-Karimzadeh/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
