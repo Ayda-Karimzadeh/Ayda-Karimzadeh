@@ -9,29 +9,33 @@
 </p>
 
 ### 🚀 About Me
-I'm a Computer Engineering graduate building my foundation in Python, Data Science, and Machine Learning. 
 
-I enjoy turning ideas into working software and I'm currently focusing on developing practical ML skills through hands-on projects.
+I'm a Computer Engineering graduate building a strong foundation in Python, Data Science, and Machine Learning.
 
-🌱 &nbsp;I'm currently learning **Data Science and Machine Learning with Python**, focusing on pandas, NumPy, data visualization, and scikit-learn.  
-🔭 &nbsp;I'm currently working on **California Housing Price Prediction**, an end-to-end learning project focused on data understanding, EDA, feature engineering, and Linear Regression.  
-💻 &nbsp;I'm also developing **SmartLife**, a desktop habit-tracking application built with Python, PyQt6, SQLite, and a structured architecture.  
-📚 &nbsp;I'm currently strengthening my understanding of **data preprocessing, regression, model evaluation, and core machine learning concepts**.  
-🤝 &nbsp;I'm open to ML/AI internships and beginner-friendly data-driven projects where I can learn, contribute, and grow.   
-💬 &nbsp;Ask me about **Python, pandas, NumPy, data analysis, or my learning projects**.  
-⚡ &nbsp;My long-term goal is to build a career in **AI/ML engineering** and work internationally. 
+I enjoy turning ideas into working software and developing practical skills through hands-on projects.
+
+🌱  I'm building practical experience in **Data Science and Machine Learning with Python**, using pandas, NumPy, data visualization, and scikit-learn.<br>
+🔭  I'm currently working on **California Housing Price Prediction**, an end-to-end ML project focused on data understanding, EDA, feature engineering, and Linear Regression.<br>
+💻  I'm also developing **SmartLife**, a desktop habit-tracking application built with Python, PyQt6, SQLite, and a structured architecture.<br>
+📚  I'm strengthening my understanding of **data preprocessing, regression, model evaluation, and core machine learning concepts**.<br>
+🤝  I'm open to **ML/AI internships and beginner-friendly data-driven projects** where I can contribute, learn, and grow.<br>
+💬  Ask me about **Python, pandas, NumPy, data analysis, or my learning projects**.<br>
+⚡  My long-term goal is to build a career in **AI/ML engineering** and work internationally.
+
 
 ### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ### 🔗 Connect With Me
