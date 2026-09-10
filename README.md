@@ -5,20 +5,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=745&height=44&lines=Computer%20Engineering%20Student%20%7C%20Python%20Developer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=745&height=44&lines=Computer%20Engineering%20Graduate%20%7C%20Aspiring%20Machine%20Learning%20Engineer" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
+I'm a Computer Engineering graduate building my foundation in Python, Data Science, and Machine Learning. 
 
-Python developer &amp; CE student. I like turning ideas into working software   
-— currently expanding into ML. Open to remote internships.
+I enjoy turning ideas into working software and I'm currently focusing on developing practical ML skills through hands-on projects.
 
-🌱 &nbsp;I'm currently learning **Python for Data Science (pandas, NumPy),  as a foundation for Machine Learning**  
-🔭 &nbsp;I'm currently working on **SmartLife, a desktop habit-tracking app built with clean architecture and service-based design**  
-👯 &nbsp;I'm looking to collaborate on **Backend systems, automation, or data-driven projects**  
-🤔 &nbsp;I'm looking for help with **real-world ML projects and best practices**  
-💬 &nbsp;Ask me about **Python, Telegram/Bale bots**  
-⚡ &nbsp;Fun fact: **I'm learning Swedish, aiming to work in Europe one day**
+🌱 &nbsp;I'm currently learning **Data Science and Machine Learning with Python**, focusing on pandas, NumPy, data visualization, and scikit-learn.  
+🔭 &nbsp;I'm currently working on **California Housing Price Prediction**, an end-to-end learning project focused on data understanding, EDA, feature engineering, and Linear Regression.
+💻 &nbsp; I'm also developing **SmartLife**, a desktop habit-tracking application built with Python, PyQt6, SQLite, and a structured architecture.  
+📚 &nbsp; I'm currently strengthening my understanding of **data preprocessing, regression, model evaluation, and core machine learning concepts**.
+🤝 &nbsp;I'm open to ML/AI internships and beginner-friendly data-driven projects where I can learn, contribute, and grow.   
+💬 &nbsp;Ask me about **Python, pandas, NumPy, data analysis, or my learning projects**. 
+⚡ &nbsp;My long-term goal is to build a career in **AI/ML engineering** and work internationally. 
 
 ### 🛠️ Tech Stack
 
